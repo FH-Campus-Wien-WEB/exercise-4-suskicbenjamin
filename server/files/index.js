@@ -258,8 +258,6 @@ window.onload = function () {
   // Login dialog
   document.getElementById('loginForm').addEventListener('submit', async (e) => {
     e.preventDefault();
-
-
     const formData = new FormData(e.target);
 
     // Task 1.1: Implement the login submit flow to call `POST /login` 
