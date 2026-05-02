@@ -121,7 +121,12 @@ export class MovieBuilder extends ElementBuilder {
           "Released on " + new Date(movie.Released).toLocaleDateString("en-US")
         )
       )
-      .append(new ParagraphBuilder().childClass("genre").items(movie.Genres))
+      .append(new ParagraphBuilder().items(
+        "Metascore: " + movie.Metascore,
+        "\u2022",
+        "imdbRating: " + movie.imdbRating
+      ))
+      .append(new ParagraphBuilder().childClass("genre").class("genres").items(movie.Genres))
       .append(new ElementBuilder("p").text(movie.Plot))
       .append(new ElementBuilder("h2").pluralizedText("Director", movie.Directors))
       .append(new ListBuilder().items(movie.Directors))

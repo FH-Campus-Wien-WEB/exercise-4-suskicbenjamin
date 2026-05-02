@@ -42,3 +42,65 @@ span {
   background-color: darkgray;
   font-weight: bold;
 }
+
+.genres {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+/* Dialog base styling */
+dialog {
+  width: 500px;
+  max-width: 90%;
+  padding: 20px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Form layout inside dialog */
+#searchForm,
+#loginForm {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Inputs */
+input {
+  padding: 8px;
+  font-size: 14px;
+}
+
+/* Buttons */
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+/* Button container */
+#searchForm > div {
+  display: flex;
+  gap: 10px;
+}
+
+/* Search results container */
+#searchResults {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+#searchResults div {
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Text inside */
+#searchResults span {
+  word-break: break-word;
+  margin-bottom: 10px;
+}

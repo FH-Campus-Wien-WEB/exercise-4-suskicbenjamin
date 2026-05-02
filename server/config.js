@@ -1,6 +1,14 @@
 // Load .env file into process.env
 require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') });
 
+if (!process.env.OMDB_API_KEY) {
+  throw new Error('Missing OMDB_API_KEY in .env file');
+}
+
+if (!process.env.SESSION_SECRET) {
+  throw new Error('Missing SESSION_SECRET in .env file');
+}
+
 // Load configuration from environment variables
 module.exports = {
   port: parseInt(process.env.PORT || '3000', 10),

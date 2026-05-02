@@ -1,30 +1,5 @@
 {
   "joe": {
-    "tt0399295": {
-      "imdbID": "tt0399295",
-      "Title": "Lord of War",
-      "Released": "2005-09-15",
-      "Runtime": 122,
-      "Genres": [
-        "Crime",
-        "Drama"
-      ],
-      "Directors": [
-        "Andrew Niccol"
-      ],
-      "Writers": [
-        "Andrew Niccol"
-      ],
-      "Actors": [
-        "Nicolas Cage",
-        "Ethan Hawke",
-        "Jared Leto"
-      ],
-      "Plot": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 62,
-      "imdbRating": 7.6
-    },
     "tt0167260": {
       "imdbID": "tt0167260",
       "Title": "The Lord of the Rings: The Return of the King",
@@ -53,32 +28,110 @@
       "Metascore": 94,
       "imdbRating": 9
     },
-    "tt0057261": {
-      "imdbID": "tt0057261",
-      "Title": "Lord of the Flies",
-      "Released": "1963-08-12",
-      "Runtime": 92,
+    "tt0378194": {
+      "imdbID": "tt0378194",
+      "Title": "Kill Bill: Vol. 2",
+      "Released": "2004-04-15",
+      "Runtime": 137,
       "Genres": [
-        "Adventure",
-        "Drama",
+        "Action",
+        "Crime",
         "Thriller"
       ],
       "Directors": [
-        "Peter Brook"
+        "Quentin Tarantino"
       ],
       "Writers": [
-        "William Golding",
-        "Peter Brook"
+        "Quentin Tarantino",
+        "Uma Thurman"
       ],
       "Actors": [
-        "James Aubrey",
-        "Tom Chapin",
-        "Hugh Edwards"
+        "Uma Thurman",
+        "David Carradine",
+        "Michael Madsen"
       ],
-      "Plot": "Schoolboys marooned on a Pacific island create their own savage civilization.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 67,
-      "imdbRating": 6.9
+      "Plot": "The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2FiNzhiZTctNzU1Mi00NDkwLWExNDMtZTg0MjYyNzhkNWNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 83,
+      "imdbRating": 8
+    },
+    "tt22893404": {
+      "imdbID": "tt22893404",
+      "Title": "Maria",
+      "Released": "2024-12-10",
+      "Runtime": 124,
+      "Genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "Directors": [
+        "Pablo Larraín"
+      ],
+      "Writers": [
+        "Steven Knight"
+      ],
+      "Actors": [
+        "Angelina Jolie",
+        "Pierfrancesco Favino",
+        "Alba Rohrwacher"
+      ],
+      "Plot": "Maria Callas, the world's greatest opera singer, lives the last days of her life in 1970s Paris, as she confronts her identity.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmJlZTkzOWMtYjBmMi00MWY2LTg0YTUtNGUzZjI0MzgxYTY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 63,
+      "imdbRating": 6.4
+    },
+    "tt0295297": {
+      "imdbID": "tt0295297",
+      "Title": "Harry Potter and the Chamber of Secrets",
+      "Released": "2002-11-14",
+      "Runtime": 161,
+      "Genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "Directors": [
+        "Chris Columbus"
+      ],
+      "Writers": [
+        "J.K. Rowling",
+        "Steve Kloves"
+      ],
+      "Actors": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson"
+      ],
+      "Plot": "Harry Potter lives his second year at Hogwarts with Ron and Hermione when a message on the wall announces that the legendary Chamber of Secrets has been opened. The trio soon realize that, to save the school, it will take a lot of...",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGJhM2M2MWYtZjIzMC00MDZmLThkY2EtOWViMDhhYjRhMzk4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 63,
+      "imdbRating": 7.5
+    },
+    "tt0399295": {
+      "imdbID": "tt0399295",
+      "Title": "Lord of War",
+      "Released": "2005-09-15",
+      "Runtime": 122,
+      "Genres": [
+        "Crime",
+        "Drama"
+      ],
+      "Directors": [
+        "Andrew Niccol"
+      ],
+      "Writers": [
+        "Andrew Niccol"
+      ],
+      "Actors": [
+        "Nicolas Cage",
+        "Ethan Hawke",
+        "Jared Leto"
+      ],
+      "Plot": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "Metascore": 62,
+      "imdbRating": 7.6
     }
   },
   "jane": {
@@ -166,6 +219,61 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 88,
       "imdbRating": 8.5
+    },
+    "tt1877830": {
+      "imdbID": "tt1877830",
+      "Title": "The Batman",
+      "Released": "2022-03-03",
+      "Runtime": 176,
+      "Genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "Directors": [
+        "Matt Reeves"
+      ],
+      "Writers": [
+        "Matt Reeves",
+        "Peter Craig",
+        "Bob Kane"
+      ],
+      "Actors": [
+        "Robert Pattinson",
+        "Zoë Kravitz",
+        "Jeffrey Wright"
+      ],
+      "Plot": "When a sadistic serial killer begins murdering key political figures in Gotham, the Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 72,
+      "imdbRating": 7.8
+    },
+    "tt1226837": {
+      "imdbID": "tt1226837",
+      "Title": "Beautiful Boy",
+      "Released": "2018-10-24",
+      "Runtime": 120,
+      "Genres": [
+        "Biography",
+        "Drama"
+      ],
+      "Directors": [
+        "Felix van Groeningen"
+      ],
+      "Writers": [
+        "Luke Davies",
+        "Felix van Groeningen",
+        "David Sheff"
+      ],
+      "Actors": [
+        "Steve Carell",
+        "Maura Tierney",
+        "Jack Dylan Grazer"
+      ],
+      "Plot": "A family coping with addiction over many years goes through the heartbreaking and inspiring experience of survival, relapse and recovery.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTRhNjg3NGMtMDM3Mi00ZmRmLTg0ZDMtYTBhMThiN2YxMTdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 62,
+      "imdbRating": 7.4
     }
   }
 }
